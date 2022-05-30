@@ -92,6 +92,16 @@ html {
   display: flex;
   justify-content: space-between;
 }
+.top__section2 {
+  padding: 31px 0 8px;
+  display: flex;
+  justify-content: space-between;
+}
+.top__section3 {
+  padding: 31px 0 8px;
+  display: flex;
+  justify-content: space-between;
+}
 .bottom__section {
   display: grid;
   grid-template-columns: minmax(200px, 332px) auto;
