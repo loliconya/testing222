@@ -17,6 +17,7 @@
   </div>
 </template>
 <script>
+// commit
 import PageTitle from "./components/PageTitleComponent.vue"
 import AddItemForm from "./components/AddItemComponent.vue"
 import Filter from "./components/FilterItemComponent.vue"
