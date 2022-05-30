@@ -101,6 +101,9 @@ html {
 .flex {
   display: flex;
 }
+.flex2 {
+  display: flex;
+}
 
 .cards-box {
   display: flex;
