@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1362839334534.8433,
+      "itemName": "А",
+      "itemDescr": "123",
+      "itemImg": "https://odeskabel.com/images/stories/virtuemart/category/Img_17407_2.jpg",
+      "itemPrice": 12
+    },
+    {
+      "id": 1429813892794.313,
+      "itemName": "У",
+      "itemDescr": "123",
+      "itemImg": "https://odeskabel.com/images/stories/virtuemart/category/Img_17407_2.jpg",
+      "itemPrice": 13
+    },
+    {
+      "id": 1611065622983.1562,
+      "itemName": "Б",
+      "itemDescr": "123",
+      "itemImg": "https://odeskabel.com/images/stories/virtuemart/category/Img_17407_2.jpg",
+      "itemPrice": 13
+    }
+  ]
+}
