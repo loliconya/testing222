@@ -106,9 +106,7 @@ html {
 .flex {
   display: flex;
 }
-.granade {
-  display: block;
-}
+
 .cards-box {
   display: flex;
   flex-wrap: wrap;
